@@ -1,1 +1,1 @@
-Test1 içerisine ilk defa bir şeyler yazdım.
+Test1 içerisine ilk defa bir değiştiriyor.
